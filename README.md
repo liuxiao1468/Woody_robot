@@ -1,7 +1,6 @@
 # Woody
-This is the code with the manual book of how to set up Woody robot
+This is the software package with the manual book associated with the paper submission "Woody: Towards a Low-Cost Social Robotic Platform for DIY Projects"
 
-Three types of files are uploaded
-1. CAD design of Woody (.zip)
-2. Hardware assembly book (.pdf)
-3. Software set up files (the rest)
+Two types of files are uploaded
+1. Hardware assembly book (.pdf)
+2. Software set up files (the rest)
