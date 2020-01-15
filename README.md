@@ -1,5 +1,6 @@
 # Woody
-This is the software package with the manual book associated with the paper submission "Woody: Towards a Low-Cost Social Robotic Platform for DIY Projects"
+This is the software package with the manual book associated with the paper submission 
+"Woody: Low-Cost, Open-Source Humanoid Torso Robot"
 
 Two types of files are uploaded
 1. Hardware assembly book (.pdf)
