@@ -22,8 +22,8 @@ can also utilize open-source software for educational purposes.
 <img src = "woody_pics/Picture1.png" width ="500" />
 
 ## Set up Woody
-*  Hardware assembly book (.pdf)
-*  Software set up files (the rest)
+*  Hardware assembly book (.pdf) https://github.com/liuxiao1468/Woody/tree/master/manual%20book
+*  Software set up files (the rest) https://github.com/liuxiao1468/Woody/tree/master/software%20package
 
 ## Functionality
 
