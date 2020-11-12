@@ -19,7 +19,9 @@ setup. Through this GUI, the user can also program the robot
 and record new gestures by its motion recording function.
 Woody is developed as an open-source hardware platform that
 can also utilize open-source software for educational purposes.
+<p align="center">
 <img src = "woody_pics/Picture1.png" width ="500" />
+</p>
 
 ## Set up Woody
 *  Hardware assembly book (.pdf) https://github.com/liuxiao1468/Woody/tree/master/manual%20book
@@ -31,9 +33,9 @@ can also utilize open-source software for educational purposes.
 * Moving eyebrows: Woody’s eyebrows can be programmed to have a specific angles or dynamically move to show different emotion expression.
 * Build-in facial emotion recognition : The “Interact with Woody” function will open a window displaying the real-time camera view running face detection and FER algorithms.
 
-
+<p align="center">
 <img src = "woody_pics/Picture2.gif" width ="200" /><img src = "woody_pics/Picture3.gif" width ="200" /><img src = "woody_pics/Picture4.gif" width ="200" />
-
+</p>
 
 ## Citation
 * Please cite the paper if you used any materials from this repo, Thanks.
