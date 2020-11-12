@@ -35,7 +35,7 @@ can also utilize open-source software for educational purposes.
 <img src = "woody_pics/Picture2.gif" width ="200" /><img src = "woody_pics/Picture3.gif" width ="200" /><img src = "woody_pics/Picture4.gif" width ="200" />
 
 
-## Cite
+## Citation
 * Please cite the paper if you used any materials from this repo, Thanks.
 ```
 @inproceedings{hayosh2020woody,
