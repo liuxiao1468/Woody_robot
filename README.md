@@ -31,7 +31,7 @@ can also utilize open-source software for educational purposes.
 
 * Build-in gestures: Woody features several built-in gesture functions. Users can record new gestures and motions using the embedded motion recording function.
 * Moving eyebrows: Woody’s eyebrows can be programmed to have a specific angles or dynamically move to show different emotion expression.
-* Build-in facial emotion recognition : The “Interact with Woody” function will open a window displaying the real-time camera view running face detection and FER algorithms.
+* Build-in facial emotion recognition : The “Interact with Woody” function will open a window displaying the real-time camera view running face detection and Facial Emotion recognition (FER) algorithms.
 
 <p align="center">
 <img src = "woody_pics/Picture2.gif" width ="200" /><img src = "woody_pics/Picture3.gif" width ="200" /><img src = "woody_pics/Picture4.gif" width ="200" />
